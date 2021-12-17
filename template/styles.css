@@ -1,0 +1,99 @@
+body {
+	color: #336699;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16pt;
+}
+
+/* Splash Page */
+.splash1 {
+	display: block; 
+	width: 100%; 
+	height: 100%;
+}
+.splash2 {
+	margin: 0; 
+	position: absolute; 
+	top: 50%; 
+	width: 100%; 
+	-ms-transform: translateY(-50%); 
+	transform: translateY(-50%); 
+	text-align:center;
+}
+.splash2 p {
+	margin-top: 3pt;
+	margin-bottom: 3pt;
+	font-size: 16pt;
+}
+.splash2 h1.title {
+	text-decoration: underline;
+	margin-top: 0pt;
+	margin-bottom: 8pt;
+	font-size: 32pt;
+}
+
+/* Page Header */
+div.pageheader div.sitetitle {
+	display: inline-block;
+	padding-right: 20pt;
+	vertical-align: middle;
+}
+div.pageheader div.pagetitle {
+	display: inline-block;
+	padding: 4pt 20pt;
+	border-left-style: solid;
+	vertical-align: middle;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+h1.title, h1.title a, h1.title a:hover, h1.title a:visited, h1.title a:active {
+	color: #336699;
+	text-decoration: underline;
+	margin-top: 0;
+	margin-bottom: 3pt;
+	font-size: 32pt;
+}
+p.subtitle {
+	margin-top: 2pt;
+	margin-bottom: 8pt;
+	padding-left: 16pt;
+	font-size: 12pt;
+	color: #0099cc;
+}
+
+/* General */
+.light {
+	color: #0099cc;
+}
+.dark {
+	color: #336699;
+}
+div.maincontent {
+	margin-left: 8pt;
+	margin-top: 12pt;
+}
+
+h1 {
+	font-size: 1.5em;
+	margin-bottom: 8pt;
+}
+h2 {
+	font-size: 1.3em;
+	margin-bottom: 8pt;
+}
+p {
+	font-size: 16pt;
+	margin-top: 8pt;
+	margin-bottom: 8pt;
+}
+ul {
+	font-size: 16pt;
+	margin-top: 6pt;
+	margin-bottom: 8pt;
+}
+th {
+	text-align: left;
+}
+tr:nth-child(even) {
+	background: #EEE;
+}
