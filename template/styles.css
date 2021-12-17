@@ -1,5 +1,5 @@
 body {
-	color: #336699;
+	color: #A30505;
 	font-family: 'Averia Gruesa Libre', cursive;
 	font-size: 16pt;
 }
@@ -63,10 +63,10 @@ p.subtitle {
 
 /* General */
 .light {
-	color: #0099cc;
+	color: #D80808;
 }
 .dark {
-	color: #336699;
+	color: #000000;
 }
 div.maincontent {
 	margin-left: 8pt;
