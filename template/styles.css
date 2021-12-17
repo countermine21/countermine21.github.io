@@ -47,7 +47,7 @@ div.pageheader div.pagetitle {
 }
 
 h1.title, h1.title a, h1.title a:hover, h1.title a:visited, h1.title a:active {
-	color: #336699;
+	color: #A30505;
 	text-decoration: underline;
 	margin-top: 0;
 	margin-bottom: 3pt;
@@ -58,15 +58,15 @@ p.subtitle {
 	margin-bottom: 8pt;
 	padding-left: 16pt;
 	font-size: 12pt;
-	color: #0099cc;
+	color: #D20606;
 }
 
 /* General */
 .light {
-	color: #D80808;
+	color: #D20606;
 }
 .dark {
-	color: #000000;
+	color: #A30505;
 }
 div.maincontent {
 	margin-left: 8pt;
